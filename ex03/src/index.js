@@ -2,7 +2,6 @@
 var myGlobalVariable = "10";
 
 function function1 () {
-    var result = "";
     notGlobalVariable = "5";
 }
 // Write code above this line
